@@ -1,4 +1,4 @@
-# AI Quiz App (React)
+# Open Trivia Database Quiz App (React)
 
 A simple React application that generates quiz questions using the Open Trivia Database API.  
 Users enter their name, answer a dynamically generated question, receive feedback, and can try additional questions without losing their entered name.
